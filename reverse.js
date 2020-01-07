@@ -1,3 +1,4 @@
+
 var input = process.argv[2];
 
 function reverse(original) {
